@@ -11,8 +11,8 @@ I am <b>Raghav Dhuria</b>, thanks for taking the time to read my GitHub profile!
 <br>
 
 <p align="center">
-    <a href="https://github.com/ArmaanAhuja-7777">
-        <img src="https://img.shields.io/github/followers/ArmaanAhuja-7777?label=Follow&logo=github&color=7289da&style=for-the-badge">
+    <a href="https://github.com/raghavdhuria">
+        <img src="https://img.shields.io/github/followers/raghavdhuria?label=Follow&logo=github&color=7289da&style=for-the-badge">
     </a>    
 </p>
 
@@ -41,17 +41,16 @@ I'm an **Undergrad Student🎓 [@Thapar University](https://www.thapar.edu)** pu
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://api.whatsapp.com/send?phone=+916239457902" target="blank"><img align="center" src="https://simpleicons.vercel.app/whatsapp/145A32" alt="whatsapp" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/raghav-dhuria-334693211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armaan-ahuja-250758221" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/raghav-dhuria-334693211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghav-dhuria-334693211" height="30" width="40" /></a>
     <!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> -->
 </p>
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArmaanAhuja-7777&label=Profile%20views&color=0e75b6&style=flat" alt="ArmaanAhuja-7777" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavdhuria&label=Profile%20views&color=0e75b6&style=flat" alt="raghavdhuria" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ArmaanAhuja-7777" alt="ArmaanAhuja-7777" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/ArmaanAhuja?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=raghavdhuria" alt="raghavdhuria" /> </p>
+ 
 
 <br>
 
