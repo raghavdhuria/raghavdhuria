@@ -4,7 +4,7 @@ I am <b>Raghav Dhuria</b>, thanks for taking the time to read my GitHub profile!
 
 <p align="center">
     <a href="https://newflixy.web.app">
-        <img src="https://i.imgur.com/PqoavY9.gif" width= "30%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hsb3dxZ2oyMzFyYjk0OGc3M3RqcHp2bmd6NjJpczFzbDc2OXQxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mFdnWF1RTI7fi/giphy.gif" width= "30%">
     </a>
 </p>
 
